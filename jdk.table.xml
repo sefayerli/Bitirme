@@ -1,0 +1,115 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (Debug)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/PycharmProjects/Debug/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/Debug/venv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Debug/venv/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Debug/venv/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Debug/venv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1679702936" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Debug" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (ssh://root@192.168.1.26:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="ssh://root@192.168.1.26:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/928081134" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1625573310" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-2006528493" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1036056684" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/809380896" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="192.168.1.26" PORT="22" USERNAME="root" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/928081134" remote-root="/usr/local/lib/python2.7/dist-packages/setuptools-12.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1625573310" remote-root="/usr/local/lib/python2.7/dist-packages/PyBBIO-0.9.3-py2.7-linux-armv7l.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1036056684" remote-root="/usr/lib/python2.7/dist-packages/PIL" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/809380896/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="ssh://root@192.168.1.26:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="ssh://root@192.168.1.26:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="ssh://root@192.168.1.26:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
