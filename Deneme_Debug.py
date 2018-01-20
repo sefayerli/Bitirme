@@ -301,7 +301,7 @@ if __name__ == "__main__":
      rx=rx/9
      ry=ry/9
      rz=rz/9
-
+#deneme
      px = px + 0.0025
      kx = px / (px + rx)
      agx = gyro_data['x'] + kx * (accel_data['x'] - gyro_data['x'])
