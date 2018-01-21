@@ -8,7 +8,7 @@
 #  to glove use							           	  #
 # -To finish the infine loop close the real time plotting graph.         	  #
 ###################################################################################
-#deneme
+#dasdfwşwkelnf
 from pyqtgraph.Qt import QtGui, QtCore
 import pyqtgraph as pg
 import collections
