@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://root@192.168.1.26:22/usr/bin/python" />
+        <remote-mappings server-id="python@ssh://root@192.168.1.26:22/home/debian/Desktop/Pycharm_Debug" />
+      </list>
+    </list>
+  </component>
+</project>

@@ -1,3 +1,0 @@
-sefayerli
-saadasd
-dase
