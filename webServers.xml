@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b43e07d-c64b-4cfd-a482-301aaf1f1a16" name="debian@192.168.1.130:22" url="http:///">
+        <fileTransfer host="192.168.1.130" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
