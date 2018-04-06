@@ -21,6 +21,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d3cc8a7d-cccd-4d60-b523-f2567f0f8f92" name="debian@192.168.1.130:22" url="http:///">
+        <fileTransfer host="192.168.1.130" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e08c82f-48c1-4e8e-aa0c-bdfd5df0b1ed" name="debian@192.168.1.130:22" url="http:///">
+        <fileTransfer host="192.168.1.130" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
