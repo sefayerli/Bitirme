@@ -16,11 +16,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="93ec1f4f-c7e9-45a6-b19d-966f95d97a4e" name="debian@192.168.7.2:22 (1)" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="d3cc8a7d-cccd-4d60-b523-f2567f0f8f92" name="debian@192.168.1.130:22 (1)" url="http:///">
         <fileTransfer host="192.168.1.130" port="22" rootFolder="/home/debian/Desktop/Pycharm_Debug" accessType="SFTP">
           <option name="port" value="22" />
@@ -41,27 +36,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e9aaedd0-7ff1-4346-bef0-ab2a454aee50" name="debian@192.168.7.2:22 (2)" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="78c1c4ac-4bca-4d78-a6bb-734e9b884da1" name="debian@192.168.7.2:22 (3)" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="51c2fe71-f1de-44b0-9c74-f8254cfa50ec" name="debian@192.168.7.2:22 (4)" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="cee31ef6-6f3e-4ba1-81c0-4aec08e676d9" name="debian@192.168.7.2:22" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="86fafbca-8d31-4a07-983f-18be92ae69ae" name="debian@192.168.7.2:22" url="http:///">
+      <webServer id="1148d520-32b5-4558-87f8-5a0e98403ad8" name="debian@192.168.7.2:22" url="http:///">
         <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
