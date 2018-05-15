@@ -26,12 +26,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="26bdb4ce-86df-4281-bb11-2b7cd74095fe" name="debian@192.168.7.2:22 (3)" url="http:///">
-        <fileTransfer host="192.168.7.2" port="22" rootFolder="/media/sdcard/Pycharm_Debug" accessType="SFTP">
+      <webServer id="8f3d0d75-a95e-4527-938b-30a773d55ff8" name="debian@192.168.7.2:22" url="http:///">
+        <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="55df424e-c6d6-483a-86ea-581a67e58b9d" name="debian@192.168.7.2:22 (1)" url="http:///">
+      <webServer id="f9cdc8fd-e6cb-48e7-945c-b26677118f7f" name="debian@192.168.7.2:22" url="http:///">
         <fileTransfer host="192.168.7.2" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
